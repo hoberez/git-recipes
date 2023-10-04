@@ -12,3 +12,30 @@ h1 {
     font-size: 20px;
 }
 
+/* styles specificially for recipe pages*/
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h2 {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+/*Description*/
+p {
+    background-color: lightyellow;
+    font-size: 20px;
+}
+
+/*Ingredients list*/
+ul {
+    color: blueviolet;
+    font-weight: bold;
+}
+/*Steps list*/
+ol {
+    color: red;
+}
