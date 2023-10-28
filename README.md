@@ -1,4 +1,4 @@
-# git-recipes
+# odin-recipes
 
 This is the first project in The Odin Project Foundations section. It demonstrates what I've learned so far: the basics of HTML and CSS. 
 
